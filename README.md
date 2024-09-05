@@ -55,16 +55,21 @@
    - Identified and reported bugs using Microsoft Excel & JIRA, ensuring clear and concise documentation for the development team.
    - Conducted regression testing to ensure new code changes did not impact existing functionality.
    - Developed a test summary report to outline the testing process, findings, and recommendations with up to 72 defects/bugs were identified during the process.
+   - * Test Case Sample :[Click Me](https://docs.google.com/spreadsheets/d/1pk0GTfKxK2mVNpZ4itB8-p7ljl6pS8Du5fvss3BAvNw/edit?usp=sharing)
+   - * Bug Report :[Click Me](https://docs.google.com/spreadsheets/d/19kRj3wlyaSbAO9erx5PcwB4QhShGoZi5qtgqAOyGxqw/edit?usp=sharing)
+   - * Bug / Defect Evidence : [Click Me](https://drive.google.com/drive/folders/10wDyLdETN4XKeqednPaI711i92Y3nYin?usp=sharing)
      
 #### 2. [Managing & Manipulating Databases by SQL ](https://programiz.com/sql/online-compiler/) | GROWIA Online Course Project | Jakarta `Jul'2024`
    - Creating some query resulting data as predefined format conditions 
    - Defining executable SQL query under SQL emulator (programiz.com)
-   - Developed 4 decent queries to fulfill Growia's complex requirement.
+   - Developed 4 decent queries to fulfill Growia's complex requirement
+   - * Query & Result : [Click Me](https://drive.google.com/file/d/1LFm1uPlXI7Qody1kRle-ow8CBfsrCA6H/view?usp=sharing)
 
 #### 3. [Website / Landing Page Testing](https://www.benjerry.co.uk/) |TESTBIRDS Online Entry Test Project | Jakarta `Nov'2023`
    - Identifying information and steps as per requirement such as how to make an order into website, exploring specific information in the website
    - Providing first impression of the website as the new potential customer.
-   - Collect evidence and providing Usability Report of the website 
+   - Collect evidence and providing Usability Report of the website
+   - * Acessibility Review Report : [Click Me](https://drive.google.com/file/d/1yAAiFKaRDIki7hkWFh3vQGix2-RV0zKs/view?usp=sharing) 
 
 ## Professional Experience:
 
