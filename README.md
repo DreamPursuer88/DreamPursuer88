@@ -40,12 +40,12 @@
 #### 2. Reporting
      - Skilled in generating detailed test reports and documentation to support quality assurance processes.     
 
-### Soft Skills
-#### o	Strong problem-solving skills
-#### o	Effective communication
-#### o	Ability to work in a team
-#### o	Attention to detail
-#### o	Adaptability to new technologies  & frameworks.
+### 
+Soft Skill| Soft Skill
+--|--
+Strong problem-solving skills | Effective communication
+Ability to work in a team     | Emphaty
+Adaptability to new technologies  & frameworks | Attention to detail
 
 ## Relevant Project Experience:
 
