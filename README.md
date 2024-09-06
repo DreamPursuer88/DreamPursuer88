@@ -20,11 +20,11 @@
 #### 4. [Test of English for International Communication (TOEIC)](https://itc-indonesia.com/) 
    - License No.784192; valid from Sep 2017 to Sep 2021; issued by PT International Test Center – ETS
 #### 5. [Quality Management System (ISO9001:2015) Awareness & Internal Auditor](https://robere.co.id/). 
-   - License No.2016/BRI/051; valid through Sep 2016 to Present; issued by Robere and Associates. 
+   - Certification No.2016/BRI/051; valid through Sep 2016 to Present; issued by Robere and Associates. 
 #### 6. [Certified Documentary Credit Specialist (CDCS)](https://www.libf.ac.uk/) 
    - License No.R55458; valid from May 2016 to April 2025; by The London Institute of Banking & Finance.
 #### 7. [Competence – General Banking I](https://bnsp.go.id/)
-   - Certification No. 64121.1346.4.0000414.2020; valid to Dec 2023; authored by Lembaga Sertifikasi BRI -Badan Nasional Sertifikasi Profesi (BNSP) RI. 
+   - License No. 64121.1346.4.0000414.2020; valid to Dec 2023; authored by Lembaga Sertifikasi BRI -Badan Nasional Sertifikasi Profesi (BNSP) RI. 
 
 ## Skill & Abilities :
 
