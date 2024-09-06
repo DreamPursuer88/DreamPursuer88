@@ -47,7 +47,6 @@
 #### o	Attention to detail
 #### o	Adaptability to new technologies  & frameworks.
 
-
 ## Relevant Project Experience:
 
 #### 1. [GROWIAshop e-Commerce Website Testing](https://5nags3iycnjh547.growia.education/) | GROWIA Online Course Project | Jakarta `Aug'2024`
@@ -105,8 +104,7 @@
    - Preliminary internal audit team. 
 
 #### 7. [PT. Bank Rakyat Indonesia (Persero) Tbk |Certain Area (International Business Division) ](https://bri.co.id) | TRADE FINANCE RELATIONSHIP MANAGER | Jakarta `Oct 2010 - Feb 2015`
-   - Trade Finance Business development for Makassar, Banjarmasin, and Jakarta Regional Office.
-     
+   - Trade Finance Business development for Makassar, Banjarmasin, and Jakarta Regional Office.  
 ---
 
 ### Tools:
@@ -121,7 +119,6 @@
 
 -
 ---
-
 ### Connect with me:
 
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/yuangga-y-rachmanjaya-cdcs-2565a759/#gh-light-mode-only)
@@ -129,6 +126,5 @@
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/yuanggayanuar/#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/yuanggayanuar/#gh-dark-mode-only)
-
 
 [webdev]: https://github.com/DreamPursuer88/DreamPursuer88
