@@ -56,9 +56,11 @@
    - Conducted regression testing to ensure new code changes did not impact existing functionality.
    - Developed a test summary report to outline the testing process, findings, and recommendations with up to 72 defects/bugs were identified during the process.
    - * Test Case Sample :[Click Me](https://docs.google.com/spreadsheets/d/1pk0GTfKxK2mVNpZ4itB8-p7ljl6pS8Du5fvss3BAvNw/edit?usp=sharing)
-   - * Bug Report :[Click Me](https://docs.google.com/spreadsheets/d/19kRj3wlyaSbAO9erx5PcwB4QhShGoZi5qtgqAOyGxqw/edit?usp=sharing)
+   - * Bug Report with Excel sheet :[Click Me](https://docs.google.com/spreadsheets/d/19kRj3wlyaSbAO9erx5PcwB4QhShGoZi5qtgqAOyGxqw/edit?usp=sharing)
+   - * Bug Report with Jira : [Click Me](https://drive.google.com/file/d/1xXQvcILJaiLRBiBD4qZuxYE0QXhiCwWA/view?usp=sharing)
    - * Exhaustive Test with Automation (Selenium Java) Execution Sample : [Click Me](https://drive.google.com/file/d/1znOX21l5d0jysH-ts9koXrJ7kSWNOVNI/view?usp=sharing)
    - * Bug / Defect Evidence : [Click Me](https://drive.google.com/drive/folders/10wDyLdETN4XKeqednPaI711i92Y3nYin?usp=sharing)
+   - * An example of a project in Jira. [Check the screenshot](https://drive.google.com/file/d/1goGVxY23WOcdEYVVIyrmh7C1E194yFea/view?usp=sharing).
      
 #### 2. [Managing & Manipulating Databases by SQL ](https://programiz.com/sql/online-compiler/) | GROWIA Online Course Project | Jakarta `Jul'2024`
    - Creating some query resulting data as predefined format conditions 
