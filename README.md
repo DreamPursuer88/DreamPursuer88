@@ -12,19 +12,19 @@
 ## Traning & Certification :
 
 #### 1. [Manual QA / Software Tester](https://www.growia.education/id/courses/mqa)
-      - Certification No.GR2421121 ; effected on Aug 2024; issued by Growia Education.
+   - Certification No.GR2421121 ; effected on Aug 2024; issued by Growia Education.
 #### 2. [WAI0.1x: Introduction to Web Accessibility](https://www.w3.org/WAI/fundamentals/accessibility-intro/) 
-      Certification No.94a1db6026aa4563b5fb0029757bc6d9; dated 16 February 2024; issued by W3C WAI & UNESCO IITE.
+   - Certification No.94a1db6026aa4563b5fb0029757bc6d9; dated 16 February 2024; issued by W3C WAI & UNESCO IITE.
 #### 3. [Test of English as a Foreign Language (TOEFL) Prediction](https://dailybahasainggris.com/)
-      License No.0269/ST/T. A/III/2022; valid from Mar 2022 to Mar 2024; issued by PT Daily Cipta Dwipa.
+   - Certification No.B2.4776/daily.dcd/toefl/IV/2024; valid from 08 Apr 2024 to 07 Apr 2025; issued by PT Daily Cipta Dwipa.
 #### 4. [Test of English for International Communication (TOEIC)](https://itc-indonesia.com/) 
-      License No.784192; valid from Sep 2017 to Sep 2021; issued by PT International Test Center – ETS
+   - License No.784192; valid from Sep 2017 to Sep 2021; issued by PT International Test Center – ETS
 #### 5. [Quality Management System (ISO9001:2015) Awareness & Internal Auditor](https://robere.co.id/). 
-     License No.2016/BRI/051; valid through Sep 2016 to Present; issued by Robere and Associates. 
+   - License No.2016/BRI/051; valid through Sep 2016 to Present; issued by Robere and Associates. 
 #### 6. [Certified Documentary Credit Specialist (CDCS)](https://www.libf.ac.uk/) 
-      License No.R55458; valid from May 2016 to April 2025; by The London Institute of Banking & Finance.
+   - License No.R55458; valid from May 2016 to April 2025; by The London Institute of Banking & Finance.
 #### 7. [Competence – General Banking I](https://bnsp.go.id/)
-      Certification No. 64121.1346.4.0000414.2020; valid to Dec 2023; authored by Lembaga Sertifikasi BRI -Badan Nasional Sertifikasi Profesi (BNSP) RI. 
+   - Certification No. 64121.1346.4.0000414.2020; valid to Dec 2023; authored by Lembaga Sertifikasi BRI -Badan Nasional Sertifikasi Profesi (BNSP) RI. 
 
 ## Skill & Abilities :
 
