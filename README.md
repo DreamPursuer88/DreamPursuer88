@@ -58,15 +58,19 @@
 - Team collaboration
 - Adaptability to new testing tools & frameworks.
 
-#### 5. Tools
+#### 5. Tools & Languages
 
-[<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="IntelliJ IDEA" width="30px" src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/ced775da-ddef-41b7-bbc3-e870172021aa.png?w=128&h=128&fit=max&dpr=3&auto=format&q=50" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="JIRA" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Jira_Logo.svg/500px-Jira_Logo.svg.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Excel" width="40px" src="https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/a8/fd/5a/a8fd5a84-c6f1-355f-3b9f-6e86598efaa3/XCEL.png/1200x630bb.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Selenium-Java" width="30px" src="https://www.simplilearn.com/ice9/free_resources_article_thumb/Selenium_With_Java.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="JAVA Oracle" width="50px" src="https://media.trustradius.com/product-logos/GD/eH/HWTQ5G5KNKNL.PNG" style="padding-right:0px;" />][webdev]
 [<img align="left" alt="Apache Maven" width="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Yhw42q0qIFHidZM0XczKe5jnshk8XXdfDg&s" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Selenium-Java" width="30px" src="https://www.simplilearn.com/ice9/free_resources_article_thumb/Selenium_With_Java.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="JIRA" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Jira_Logo.svg/500px-Jira_Logo.svg.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Chrome Developer Tools" width="110px" src="https://www.gstatic.com/devrel-devsite/prod/vff8c7d35de8ade382e79c3b9a923182d876d284b6ae43035fbefc80d49042a6e/chrome/images/lockup.svg" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Mozilla Developer Tools" width="40px" src="https://firefox-dev.tools/images/fx-browser-developer-icon-full-color.svg" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Excel" width="40px" src="https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/a8/fd/5a/a8fd5a84-c6f1-355f-3b9f-6e86598efaa3/XCEL.png/1200x630bb.png" style="padding-right:10px;" />][webdev]
+
+
 
 -
 ---
@@ -95,7 +99,7 @@
    -  Identifying information and steps as per requirement such as how to make an order into website, exploring specific information in the website
    - Providing first impression of the website from the new potential customer perspective. And collect evidence and providing Usability Report of the website (benjerry.co.uk/)
 
-   - * Acessibility Review Report : [Click Me](https://drive.google.com/file/d/1yAAiFKaRDIki7hkWFh3vQGix2-RV0zKs/view?usp=sharing) 
+   - * Accessibility Review Report : [Click Me](https://drive.google.com/file/d/1yAAiFKaRDIki7hkWFh3vQGix2-RV0zKs/view?usp=sharing) 
 
 ## Professional Experience:
 
@@ -127,5 +131,8 @@
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/yuanggayanuar/#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/yuanggayanuar/#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/gmail-light.svg)](https://pursue.dreams88@gmail.com/#gh-light-mode-only)
+[![website](./img/gmail-dark.svg)](https://pursue.dreams88@gmail.com/#gh-dark-mode-only)
 
 [webdev]: https://github.com/DreamPursuer88/DreamPursuer88
