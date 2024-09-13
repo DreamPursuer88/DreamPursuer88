@@ -35,86 +35,30 @@
 
 ## Skill & Abilities :
 
-### Technical Skills
 #### 1. Manual Testing
-      - Expertise in manual testing methodologies, 
-      - Functional and non-functional testing, 
-      - Test case creation and execution, 
-      - Bug / Defect identification and documentation.
-#### 2. Software Tools
-     - Proficient in JIRA for bug tracking and project management, 
-     - Familiar with IntelliJ IDEA, Java Selenium, Chrome Dev tools, Mozilla Dev Tools.
-#### 2. Reporting
-     - Skilled in generating detailed test reports and documentation to support quality assurance processes.     
+- Expertise in manual testing methodologies, 
+- Functional and non-functional testing, 
+- Regression testing,
+- Test case creation and execution,
+- Bug / Defect identification and documentation.
+  
+#### 2. Automation Testing
+- Java Selenium (repetitive & exhaustive testing),
+- IntelliJ IDEA.
+  
+#### 3. Reporting
+- Test execution report generation,
+- Bug report generation,
+- Documentation for QA processes.
+   
+#### 4. Soft Skills
+- Strong problem-solving skills
+- Attention to detail
+- Effective communication
+- Team collaboration
+- Adaptability to new testing tools & frameworks.
 
-### 
-Soft Skill| Soft Skill
---|--
-Strong problem-solving skills | Effective communication
-Ability to work in a team     | Emphaty
-Adaptability to new technologies  & frameworks | Attention to detail
-
-## Relevant Project Experience:
-
-#### 1. [GROWIAshop e-Commerce Website Testing](https://5nags3iycnjh547.growia.education/) | GROWIA Online Course Project | Jakarta `Aug'2024`
-   - Developed and executed manual test cases for an e-commerce website, covering key functionalities such as user registration, product search, checkout process, and inventory administrator.
-   - Identified and reported bugs using Microsoft Excel & JIRA, ensuring clear and concise documentation for the development team.
-   - Conducted regression testing to ensure new code changes did not impact existing functionality.
-   - Developed a test summary report to outline the testing process, findings, and recommendations with up to 72 defects/bugs were identified during the process.
-   - * Test Case Sample :[Click Me](https://docs.google.com/spreadsheets/d/1pk0GTfKxK2mVNpZ4itB8-p7ljl6pS8Du5fvss3BAvNw/edit?usp=sharing)
-   - * Bug Report with Excel sheet :[Click Me](https://docs.google.com/spreadsheets/d/19kRj3wlyaSbAO9erx5PcwB4QhShGoZi5qtgqAOyGxqw/edit?usp=sharing)
-   - * Bug Report with Jira : [Click Me](https://drive.google.com/file/d/1xXQvcILJaiLRBiBD4qZuxYE0QXhiCwWA/view?usp=sharing)
-   - * Exhaustive Test with Automation (Selenium Java) Execution Sample : [Click Me](https://drive.google.com/file/d/1znOX21l5d0jysH-ts9koXrJ7kSWNOVNI/view?usp=sharing)
-   - * Bug / Defect Evidence : [Click Me](https://drive.google.com/drive/folders/10wDyLdETN4XKeqednPaI711i92Y3nYin?usp=sharing)
-   - * An example of a project in Jira. [Check the screenshot](https://drive.google.com/file/d/1goGVxY23WOcdEYVVIyrmh7C1E194yFea/view?usp=sharing).
-     
-#### 2. [Managing & Manipulating Databases by SQL ](https://programiz.com/sql/online-compiler/) | GROWIA Online Course Project | Jakarta `Jul'2024`
-   - Creating some query resulting data as predefined format conditions 
-   - Defining executable SQL query under SQL emulator (programiz.com)
-   - Developed 4 decent queries to fulfill Growia's complex requirement
-   - * Query & Result : [Click Me](https://drive.google.com/file/d/1LFm1uPlXI7Qody1kRle-ow8CBfsrCA6H/view?usp=sharing)
-
-#### 3. [Website / Landing Page Testing](https://www.benjerry.co.uk/) |TESTBIRDS Online Entry Test Project | Jakarta `Nov'2023`
-   - Identifying information and steps as per requirement such as how to make an order into website, exploring specific information in the website
-   - Providing first impression of the website as the new potential customer.
-   - Collect evidence and providing Usability Report of the website
-   - * Acessibility Review Report : [Click Me](https://drive.google.com/file/d/1yAAiFKaRDIki7hkWFh3vQGix2-RV0zKs/view?usp=sharing) 
-
-## Professional Experience:
-
-#### 1. [Jannah Agritech Garden - IOT Urban Farming](https://neo.crophero.id/)| FOUNDER | Bogor `Dec'2022 - Now`
-   - Developing a clear vision for how IoT technology can be integrated into urban farming practices to improve efficiency, sustainability, and scalability.
-   - Overseeing the development and integration of IoT solutions tailored to urban farming needs.
-   - Establishing strong relationships with stakeholders is essential for the success of an IoT Urban Farming initiative.
-
-#### 2. [PT. Bank Rakyat Indonesia (Persero) Tbk |Jakarta-HO (Transaction Banking Division) ](https://bri.co.id) | SENIOR STAFF of TRADE PRODUCT DEVELOPMENT Dept | Jakarta `Dec 2021 - Aug 2022`
-   - Designed and improved trade products as new revenue streamline e.g., Global AR Financing, re-engineered Trust Receipt facility.
-   - Conducted a comprehensive assessment of the product life cycle, leveraging data-driven insights to restructure the product portfolio and meet evolving business challenges; generated a 12% increase in improvement in overall product performance.
-   - Collaborated with IT Department in Digitization of Current & Future Trade Products by developing automation of KPI baseline data, reducing RM’s performance measurement bias of up to 15%. 
-
-#### 3. [PT. Bank Rakyat Indonesia (Persero) Tbk |Jakarta-HO (Transaction Banking Division) ](https://bri.co.id) | SENIOR STAFF of QUALITY ASSURANCE Dept. | Jakarta `May 2021 - Nov 2021`
-   - Directed and optimized operations of the Regional Office and branch, achieving a 15% reduction in costs through streamlined processes and cross-functional collaboration,while surpassing revenue targets by 10%
-   - Revamped and executed a comprehensive training program to enhance employee skills and knowledge, resulting in a 20% increase in employee engagement scores.
-
-#### 4. [PT. Bank Rakyat Indonesia (Persero) Tbk |Jakarta-HO (International Business Division) ](https://bri.co.id) | SENIOR STAFF of OVERSEAS CHANNEL MANAGEMENT & DEVELOPMENT  Dept. | Jakarta `Apr 2020 - Apr 2021`
-   - Directed and monitored business activities of BRI Singapore Branch & BRI New York Agency, driving successful attainment of business targets and surpassing revenue goals by 17% through guidance& collaboration.
-   - Implemented a sufficient risk management approach, fostering a culture of risk awareness and accountability; oversaw timely follow-up of audit.
-
-#### 5. [PT. Bank Rakyat Indonesia (Persero) Tbk |Jakarta-HO (International Business Division) ](https://bri.co.id) | STAFF 1 of QUALITY ASSURANCE  Dept. | Jakarta `Oct 2016 - Mar 2020`
-   - Advisor & consultant of international business for Regional Office, Branch, Special Branch, and sub-Branch.
-   - Liaison Officer for External Audit (BPK RI, OJK) and Internal Audit.
-   - Organizing Committee of Trade Services Quality for Trade Processing Centre Dept (Quality Management system – ISO9001:2015)
-   - Quality Assurance of Upgrading Trade Finance Core System – Fusion Banking Trade Innovation (FBTI) phase 2.
-
-#### 6. [PT. Bank Rakyat Indonesia (Persero) Tbk |Jakarta-HO (International Business Division) ](https://bri.co.id) | JUNIOR STAFF 2 of TRADE FINANCE CONSULTING & MONITORING  Dept. | Jakarta `Mar 2015 - Sep 2016`
-   - Advisory and business consultant for trade finance operations in 4 major regional areas.
-   - Preliminary internal audit team. 
-
-#### 7. [PT. Bank Rakyat Indonesia (Persero) Tbk |Certain Area (International Business Division) ](https://bri.co.id) | TRADE FINANCE RELATIONSHIP MANAGER | Jakarta `Oct 2010 - Feb 2015`
-   - Trade Finance Business development for Makassar, Banjarmasin, and Jakarta Regional Office.  
----
-
-### Tools:
+#### 5. Tools
 
 [<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="IntelliJ IDEA" width="30px" src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/ced775da-ddef-41b7-bbc3-e870172021aa.png?w=128&h=128&fit=max&dpr=3&auto=format&q=50" style="padding-right:10px;" />][webdev]
@@ -125,6 +69,56 @@ Adaptability to new technologies  & frameworks | Attention to detail
 [<img align="left" alt="Selenium-Java" width="30px" src="https://www.simplilearn.com/ice9/free_resources_article_thumb/Selenium_With_Java.png" style="padding-right:10px;" />][webdev]
 
 -
+---
+
+
+## Relevant Project Experience:
+
+#### 1. [GROWIAshop e-Commerce Website Testing](https://5nags3iycnjh547.growia.education/) | GROWIA Online Course Project | Jakarta `Aug'2024`
+   - Developed and executed manual test cases for an e-commerce website (GrowiaShop), covering key functionalities such as user registration, product search, checkout process and product inventory.
+   - Identified and reported bugs using Microsoft Excel & JIRA, ensuring clear and concise documentation for the development team.
+   - Conducted regression testing to ensure new code changes did not impact existing functionality.
+   - Developed a test summary report to outline the testing process, findings, and recommendations with up to 72 defects/bugs were identified.
+   - * Test Case Sample :[Click Me](https://docs.google.com/spreadsheets/d/1pk0GTfKxK2mVNpZ4itB8-p7ljl6pS8Du5fvss3BAvNw/edit?usp=sharing)
+   - * Bug Report with Excel sheet :[Click Me](https://docs.google.com/spreadsheets/d/19kRj3wlyaSbAO9erx5PcwB4QhShGoZi5qtgqAOyGxqw/edit?usp=sharing)
+   - * Bug Report with Jira : [Click Me](https://drive.google.com/file/d/1xXQvcILJaiLRBiBD4qZuxYE0QXhiCwWA/view?usp=sharing)
+   - * Exhaustive Test with Automation (Selenium Java) Execution Sample : [Click Me](https://drive.google.com/file/d/1znOX21l5d0jysH-ts9koXrJ7kSWNOVNI/view?usp=sharing)
+   - * Bug / Defect Evidence : [Click Me](https://drive.google.com/drive/folders/10wDyLdETN4XKeqednPaI711i92Y3nYin?usp=sharing)
+   - * An example of a project in Jira. [Check the screenshot](https://drive.google.com/file/d/1goGVxY23WOcdEYVVIyrmh7C1E194yFea/view?usp=sharing).
+     
+#### 2. [Managing & Manipulating Databases by SQL ](https://programiz.com/sql/online-compiler/) | GROWIA Online Course Project | Jakarta `Jul'2024`
+   - Creating executable SQL query under SQL emulator as per required predefined data format conditions. 
+   - Developed 4 decent queries to fulfill complex requirement.
+   - * Query & Result : [Click Me](https://drive.google.com/file/d/1LFm1uPlXI7Qody1kRle-ow8CBfsrCA6H/view?usp=sharing)
+
+#### 3. [Website / Landing Page Testing](https://www.benjerry.co.uk/) |TESTBIRDS Online Entry Test Project | Jakarta `Nov'2023`
+   -  Identifying information and steps as per requirement such as how to make an order into website, exploring specific information in the website
+   - Providing first impression of the website from the new potential customer perspective. And collect evidence and providing Usability Report of the website (benjerry.co.uk/)
+
+   - * Acessibility Review Report : [Click Me](https://drive.google.com/file/d/1yAAiFKaRDIki7hkWFh3vQGix2-RV0zKs/view?usp=sharing) 
+
+## Professional Experience:
+
+#### 1. [Jannah Agritech Garden - IOT Urban Farming](https://neo.crophero.id/)| FOUNDER | Bogor `Dec'2022 - 2024`
+
+#### 2. [PT. Bank Rakyat Indonesia (Persero) Tbk |Jakarta-HO (Transaction Banking Division) ](https://bri.co.id) | SENIOR STAFF of TRADE PRODUCT DEVELOPMENT Dept | Jakarta `Dec 2021 - Aug 2022`
+   - Conducted a comprehensive assessment of the product life cycle, leveraging data-driven insights to restructure the product portfolio and meet evolving business challenges; generated a 12% increase in improvement in overall product performance.
+   - Collaborated with IT Department by developing automation of KPI base data, reducing RM’s performance measurement bias of up to 15%. 
+
+#### 3. [PT. Bank Rakyat Indonesia (Persero) Tbk |Jakarta-HO (Transaction Banking Division) ](https://bri.co.id) | SENIOR STAFF of QUALITY ASSURANCE Dept. | Jakarta `May 2021 - Nov 2021`
+   - Drive Trade Finance transformation by overseeing Fusion Banking Corporate Channel (FBCC) platform mock-up functionality tests as the Customer Front End to address recent business challenges.
+
+#### 4. [PT. Bank Rakyat Indonesia (Persero) Tbk |Jakarta-HO (International Business Division) ](https://bri.co.id) | SENIOR STAFF of OVERSEAS CHANNEL MANAGEMENT & DEVELOPMENT  Dept. | Jakarta `Apr 2020 - Apr 2021`
+   - Directed and monitored business activities of BRI Singapore Branch & BRI New York Agency, driving successful attainment of business targets and surpassing revenue goals by 17% through clear guidance & collaboration.
+
+#### 5. [PT. Bank Rakyat Indonesia (Persero) Tbk |Jakarta-HO (International Business Division) ](https://bri.co.id) | STAFF 1 of QUALITY ASSURANCE  Dept. | Jakarta `Oct 2016 - Mar 2020`
+   - Served as business flow experts for the UAT as part of the Quality Assurance for Trade Finance Core System Upgrade – (FBTI) Phase 2. 
+   - Successfully conducted the first audit of Trade Services Quality (ISO9001:2015) for the Trade Processing Centre Dept as part of the Organizing Committee.
+
+#### 6. [PT. Bank Rakyat Indonesia (Persero) Tbk |Jakarta-HO (International Business Division) ](https://bri.co.id) | JUNIOR STAFF 2 of TRADE FINANCE CONSULTING & MONITORING  Dept. | Jakarta `Mar 2015 - Sep 2016`
+
+#### 7. [PT. Bank Rakyat Indonesia (Persero) Tbk |Certain Area (International Business Division) ](https://bri.co.id) | TRADE FINANCE RELATIONSHIP MANAGER | Jakarta, Banjarmasin, Makassar `Oct 2010 - Feb 2015`
+
 ---
 ### Connect with me:
 
