@@ -126,13 +126,18 @@ In my previous role as a System Owner Feature Tester for User Acceptance Testing
 ---
 ### Connect with me:
 
+<a href="mailto:your-email@gmail.com">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" style="width:30px;height:30px;">
+</a> 
+&nbsp;&nbsp;
+
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/yuangga-y-rachmanjaya-cdcs-2565a759/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/yuangga-y-rachmanjaya-cdcs-2565a759/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/yuanggayanuar/#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/yuanggayanuar/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/gmail-light.svg)](https://pursue.dreams88@gmail.com/#gh-light-mode-only)
-[![website](./img/gmail-dark.svg)](https://pursue.dreams88@gmail.com/#gh-dark-mode-only)
+<a href="https://goo.gl/maps/3Pm5VsFQhx3KfyFYA" target="_blank">
+  <img src="https://www.svgrepo.com/show/58333/location-on-map.svg" alt="Location" style="width:40px;height:40px;">
+</a>
+
+
 
 [webdev]: https://github.com/DreamPursuer88/DreamPursuer88
