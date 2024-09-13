@@ -11,19 +11,26 @@
 
 ## Traning & Certification :
 
-#### 1. [Manual QA / Software Tester](https://www.growia.education/id/courses/mqa)
+#### 1. [Manual QA / Software Tester](https://drive.google.com/file/d/1BFwTXoMgjIgvSZE3aVKo_EI9G4kLHTqZ/view?usp=sharing)
+   - Fundamental training of QA / Software Tester with decent skill
    - Certification No.GR2421121 ; effected on Aug 2024; issued by Growia Education.
-#### 2. [WAI0.1x: Introduction to Web Accessibility](https://www.w3.org/WAI/fundamentals/accessibility-intro/) 
+#### 2. [WAI0.1x: Introduction to Web Accessibility](https://drive.google.com/file/d/1gJaAm3jHAYnbmyduANdBDm-8BrSPrBh6/view?usp=sharing) 
+   - Introduction course of website accessibility among diverse users. 
    - Certification No.94a1db6026aa4563b5fb0029757bc6d9; dated 16 February 2024; issued by W3C WAI & UNESCO IITE.
-#### 3. [Test of English as a Foreign Language (TOEFL) Prediction](https://dailybahasainggris.com/)
+#### 3. [Test of English as a Foreign Language (TOEFL) Prediction](https://drive.google.com/file/d/1bf1NUlF9wTEKYMNcaSYB5fmo7xbpGiol/view?usp=sharing)
+   - English proficiency test as foreign languages
    - Certification No.B2.4776/daily.dcd/toefl/IV/2024; valid from 08 Apr 2024 to 07 Apr 2025; issued by PT Daily Cipta Dwipa.
-#### 4. [Test of English for International Communication (TOEIC)](https://itc-indonesia.com/) 
+#### 4. [Test of English for International Communication (TOEIC)](https://drive.google.com/file/d/1Ilhc4qhDuFB5MxKDZMswEt2WGQcKrSla/view?usp=sharing) 
+   - English proficiency test as foreign languages
    - License No.784192; valid from Sep 2017 to Sep 2021; issued by PT International Test Center – ETS
-#### 5. [Quality Management System (ISO9001:2015) Awareness & Internal Auditor](https://robere.co.id/). 
+#### 5. [Quality Management System (ISO9001:2015) Awareness & Internal Auditor](https://drive.google.com/file/d/1fUQfEvb18jEM1m4_XvAymF6CrNeq7P05/view?usp=sharing). 
+   - Basic training as internal auditor ISO9001:2015
    - Certification No.2016/BRI/051; valid through Sep 2016 to Present; issued by Robere and Associates. 
-#### 6. [Certified Documentary Credit Specialist (CDCS)](https://www.libf.ac.uk/) 
+#### 6. [Certified Documentary Credit Specialist (CDCS)](https://drive.google.com/file/d/1XwcTfuE7SZC8xMDPPzRTC7m5ZH3Z75St/view?usp=sharing) 
+   - Global advance Trade Finance skill certification
    - License No.R55458; valid from May 2016 to April 2025; by The London Institute of Banking & Finance.
-#### 7. [Competence – General Banking I](https://bnsp.go.id/)
+#### 7. [Competence – General Banking I](https://drive.google.com/file/d/1BiZxrTrhScXMvesYoZet_nmfLEjqV6MR/view?usp=sharing)
+   - Mandatory test of general banking professionals
    - License No. 64121.1346.4.0000414.2020; valid to Dec 2023; authored by Lembaga Sertifikasi BRI -Badan Nasional Sertifikasi Profesi (BNSP) RI. 
 
 ## Skill & Abilities :
