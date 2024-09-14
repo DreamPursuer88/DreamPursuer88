@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/DreamPursuer88/DreamPursuer88/3f5402efef9a0ae89211a6e04609558e862ca616/readme/hero.svg" alt="Hero image">
 # Hi there, Greeting from Yuangga 👋
 ## About me:
 Passionate and detail-oriented Software Tester with a solid grounding in testing methodologies and a deep commitment to delivering high-quality software. Proficient in manual testing, experienced in automation testing, adept at creating and executing comprehensive test cases, and skilled in identifying and documenting bugs. Experienced with tools like Chrome DevTools, Mozilla DevTools, Java Selenium, JIRA etc. Eager to embrace new technologies and dedicated to enhancing the efficiency and effectiveness of the software development lifecycle (SDLC).
