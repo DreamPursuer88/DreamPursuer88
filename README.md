@@ -132,8 +132,8 @@ In my previous role as a System Owner Feature Tester for User Acceptance Testing
 </a> 
 &nbsp;&nbsp;
 
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/yuangga-y-rachmanjaya-cdcs-2565a759/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/yuangga-y-rachmanjaya-cdcs-2565a759/#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/yuangga-y-rachmanjaya-2565a759//#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/yuangga-y-rachmanjaya-2565a759/#gh-dark-mode-only)
 &nbsp;&nbsp;
 <a href="https://goo.gl/maps/3Pm5VsFQhx3KfyFYA" target="_blank">
   <img src="https://www.svgrepo.com/show/58333/location-on-map.svg" alt="Location" style="width:40px;height:40px;">
