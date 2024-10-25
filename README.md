@@ -102,9 +102,9 @@ In my previous role as a System Owner Feature Tester for User Acceptance Testing
 
 ## Traning & Certification :
 
-#### 1. [Manual QA / Software Tester](https://drive.google.com/file/d/1pKP3nR04GXcL3FSG3TOKlgORA_jChE7p/view?usp=sharing)
+#### 1. [Manual QA / Software Tester](https://drive.google.com/file/d/16DP7hNqNzg7dSXZOpqwGrmhCluOgVswC/view?usp=sharing)
    - Fundamental training of QA / Software Tester with decent skill
-   - Certification No.GR2421121 ; effected on Aug 2024; issued by Growia Education.
+   - Certification No.MQA/CER/49/GR2421121 ; effected on Aug 2024; issued by Growia Education.
 #### 2. [WAI0.1x: Introduction to Web Accessibility](https://drive.google.com/file/d/1gJaAm3jHAYnbmyduANdBDm-8BrSPrBh6/view?usp=sharing) 
    - Introduction course of website accessibility among diverse users. 
    - Certification No.94a1db6026aa4563b5fb0029757bc6d9; dated 16 February 2024; issued by W3C WAI & UNESCO IITE.
