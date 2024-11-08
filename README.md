@@ -16,7 +16,7 @@ In my previous role as a System Owner Feature Tester for User Acceptance Testing
 - Bug / Defect identification and documentation.
   
 #### 2. Automation Testing
-- Java Selenium (repetitive & exhaustive testing),
+- Java Selenium web driver (repetitive & exhaustive testing),
 - IntelliJ IDEA.
   
 #### 3. Reporting
